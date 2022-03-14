@@ -1,8 +1,5 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/shubh67678/sorting-visualizer/blob/master/image/gif.gif)
-> [Live demo](https://shubh67678.github.io/sorting-visualizer/)
-
 ---
 
 ## Description
@@ -37,8 +34,6 @@ Useful links discribing the algorithms used
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
-
-[Back To The Top](#read-me-template)
 
 ---
 
